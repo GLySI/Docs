@@ -1,5 +1,5 @@
-1. Introducción al Hacking Etico (introduction to etihical hacking)
-2. Tanteo y reoconocimiento (footprinting and reconnaissance)
+1. Introducción al Hacking Etico (introduction to ethical hacking)
+2. Tanteo y reconocimiento (footprinting and reconnaissance)
 3. Redes de escaneo (scanning networks)
 4. Enumeracion (enumeration)
 5. Hackeo de sistema (system hacking)
@@ -16,3 +16,16 @@
 16. Buffer overflow
 17. Criptografia
 18. Testeo de penetracion
+
+----------------------------------
+A RAMAS GENERALES, PASOS A PROFUNDIZAR:
+1. Reconocimiento - recolectar informacion del sistema de forma activa o pasiva
+2. Escaneo - probar activaemnte las vulnerabilidades que pueden explotarse
+3. Obtener Acceso - explotar una vulnerabilidad para acceder al sistema
+4. Mantener el acceso - se mantiene en el sistema para lograr el objetivo del ataque
+5. Cubrir las huellas - tratar de borrar las evidencias del ataque
+
+----------------------------------
+CUBIERTOS LOS CONCEPTOS TEÓRICOS, SE PUEDE PROFUNDIZAR EN EL FUNCIONAMIENTO Y USO DE LAS HERRAMIENTAS PRESENTES EN LA DISTRO DE KALI LINUX, DEPENDIENDO EL USO REQUERIDO.
+
+
